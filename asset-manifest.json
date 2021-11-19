@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.337b3d50.chunk.css",
-    "main.js": "/portfolio/static/js/main.402627a2.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.402627a2.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.0d48b79a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0d48b79a.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.2c2dadb0.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.2c2dadb0.js.map",
     "static/js/2.6fd6744f.chunk.js": "/portfolio/static/js/2.6fd6744f.chunk.js",
@@ -21,7 +21,7 @@
     "static/media/morphing.014e9ba3.webp": "/portfolio/static/media/morphing.014e9ba3.webp",
     "static/media/newsFeeds.5b97fc01.webp": "/portfolio/static/media/newsFeeds.5b97fc01.webp",
     "static/media/newtonsCradle.4a80c93e.webp": "/portfolio/static/media/newtonsCradle.4a80c93e.webp",
-    "static/media/sky.daecc913.jpg": "/portfolio/static/media/sky.daecc913.jpg",
+    "static/media/sky.0174fc18.webp": "/portfolio/static/media/sky.0174fc18.webp",
     "static/media/sorting.c1ddb6a6.webp": "/portfolio/static/media/sorting.c1ddb6a6.webp",
     "static/media/tesseract.0422dece.webp": "/portfolio/static/media/tesseract.0422dece.webp",
     "static/media/weather.4495d057.webp": "/portfolio/static/media/weather.4495d057.webp"
@@ -30,6 +30,6 @@
     "static/js/runtime-main.2c2dadb0.js",
     "static/js/2.6fd6744f.chunk.js",
     "static/css/main.337b3d50.chunk.css",
-    "static/js/main.402627a2.chunk.js"
+    "static/js/main.0d48b79a.chunk.js"
   ]
 }
